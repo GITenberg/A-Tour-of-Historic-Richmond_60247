@@ -1,0 +1,23 @@
+_repo: A-Tour-of-Historic-Richmond_60247
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Frances Leigh
+    gutenberg_agent_id: '50865'
+    url: http://www.gutenberg.org/2009/agents/50865
+description: ''
+gutenberg_issued: '2019-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Richmond (Va.) -- Description and travel'
+- !lcsh 'Richmond (Va.) -- History'
+- GITenberg
+title: A Tour of Historic Richmond
+url: http://www.gutenberg.org/ebooks/60247
