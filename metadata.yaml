@@ -1,11 +1,16 @@
 _repo: A-Tour-of-Historic-Richmond_60247
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60247-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Frances Leigh
     gutenberg_agent_id: '50865'
     url: http://www.gutenberg.org/2009/agents/50865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60247#A-Tour-of-Historic-Richmond
 gutenberg_issued: '2019-09-06'
 gutenberg_type: Text
 identifiers:
